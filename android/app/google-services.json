@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853066326744",
+    "project_id": "lata_app-531c5",
+    "storage_bucket": "lata_app-531c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853066326744:android:bbde409fca82b840ceedad",
+        "android_client_info": {
+          "package_name": "com.lata_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY5oNEirLzt2cZ9pZDuE9DjIgVw0ktgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
